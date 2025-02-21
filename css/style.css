@@ -15,6 +15,13 @@
     align-items: center;
 }
 
+.square{
+    height: 350px;
+    width: 700px;
+    border: 2px  dashed    black;
+
+}
+
 .title{
     background-color: rgb(255, 166, 0);
     border: 2px dashed;
@@ -28,9 +35,94 @@
     padding: 10px 150px
 }
 
-.main-1{
+/* paragraph1 */
+.block-1{
     background-color: rgb(0, 0, 252);
     height: 450px;
 }
+
+.fucsia{
+    background-color: rgb(250, 97, 255); 
+    height: 350px;
+    width: 70%;
+    border: 2px  dashed    black;
+}
+
+/* paragraph2 */
+.block-2{
+    background-color: rgb(255, 255, 255);
+    height: 500px;
+}
+
+.pink{
+    background-color: rgb(247, 176, 250);
+    width: 40%;
+    border: 2px  dashed    black;
+    margin-left: 10%;
+}
+
+.blue{
+    background-color: rgb(122, 135, 255);
+    width: 60%;
+    border: 2px  dashed    black;
+    margin-right: 10%;
+}
+
+/* paragraph3 */
+
+.blue-2{
+    background-color: rgb(122, 135, 255);;
+    width: 60%;
+    border: 2px  dashed    black;
+    margin-left: 10%;
+}
+.pink-2{
+    background-color: rgb(247, 176, 250);
+    width: 40%;
+    border: 2px  dashed    black;
+    margin-right: 10%;
+}
+
+.block-3{
+    background-color: rgb(218, 218, 218);
+    height: 500px;
+}
+/* paragraph4 */
+.block-4{
+    background-color: rgb(218, 218, 218);
+    height: 700px;
+}
+
+.green{
+    background-color: rgb(0, 148, 7); 
+    height: 500px;
+    width: 80%;
+    border: 2px  dashed    black;
+}
+
+/* paragraph5 */
+.block-5{
+    background-color: rgb(0, 0, 0);
+    height: 500px;
+}
+
+.roses{
+    background-color: rgb(139, 32, 86); 
+    height: 400px;
+    width: 40%;
+    border: 2px  dashed    black;
+}
+.aqua{
+    background-color: rgb(32, 139, 139); 
+    height: 400px;
+    width: 10%;
+    border: 2px  dashed    rgb(255, 255, 255);
+}
+
+
+
+
+
+
 
 
